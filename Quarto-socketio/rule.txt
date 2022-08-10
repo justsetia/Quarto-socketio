@@ -1,0 +1,17 @@
+ There are 8 differences :
+ 
+Size ->  Tall : T    Short : K
+Color -> White : W    Black : B
+Shape -> Circle : C  Square : S
+Content -> Full : F   Empty : E
+
+A player calls "QUARTO !" and wins the game when, as he places the piece given to him:
+
+He creates a line of 4 white pieces or 4 black pieces or 4 circle pieces or 4 square pieces or 
+4 tall pieces or 4 short pieces or 4 full pieces or 4 empty pieces.
+
+Different characteristics can accumulate.
+
+He does not need to have placed the 3 other pieces himself.
+
+He must declare his win by calling "QUARTO !"
